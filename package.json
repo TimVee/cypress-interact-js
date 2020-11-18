@@ -1,0 +1,17 @@
+{
+  "name": "cypress-interact-js",
+  "version": "1.0.0",
+  "description": "Reproducable example for Cypress automation on elements that are made interactable by interact.js",
+  "main": "app.js",
+  "dependencies": {
+    "@4tw/cypress-drag-drop": "^1.4.0",
+    "cypress": "^5.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "npx ./app.js",
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
