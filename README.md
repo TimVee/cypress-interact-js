@@ -1,4 +1,4 @@
-# Reproducalbe example for Cypress inability to test elements made draggable by interact.js
+# Reproduceable example for Cypress inability to test elements made draggable by interact.js
 
 As noted on [cypress-io/cypress#6161][1] and [taye/interact.js#856][2], Cypress is unable to automate drag and drop provided by
 interact.js.
